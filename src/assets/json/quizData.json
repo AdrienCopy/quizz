@@ -1,0 +1,106 @@
+{
+    "questions": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "choices": ["Paris", "Londres", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "question": "Quelle planète est connue comme la Planète Rouge ?",
+        "choices": ["Terre", "Mars", "Jupiter", "Saturne"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "question": "Quel est le plus grand océan de la Terre ?",
+        "choices": ["Océan Atlantique", "Océan Indien", "Océan Arctique", "Océan Pacifique"],
+        "correctAnswer": "Océan Pacifique"
+      },
+      {
+        "question": "Quelle est la plus grande planète du système solaire ?",
+        "choices": ["Mars", "Terre", "Jupiter", "Saturne"],
+        "correctAnswer": "Jupiter"
+      },
+      {
+        "question": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+        "choices": ["Or", "Oxygène", "Osmium", "Oganesson"],
+        "correctAnswer": "Oxygène"
+      },
+      {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "choices": ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Marcel Proust"],
+        "correctAnswer": "Victor Hugo"
+      },
+      {
+        "question": "Quelle est la monnaie officielle du Japon ?",
+        "choices": ["Yuan", "Yen", "Won", "Ringgit"],
+        "correctAnswer": "Yen"
+      },
+      {
+        "question": "En quelle année l'homme a-t-il marché sur la lune pour la première fois ?",
+        "choices": ["1965", "1969", "1972", "1980"],
+        "correctAnswer": "1969"
+      },
+      {
+        "question": "Quel est le pays le plus peuplé du monde ?",
+        "choices": ["Inde", "États-Unis", "Chine", "Indonésie"],
+        "correctAnswer": "Chine"
+      },
+      {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "choices": ["Espagnol", "Français", "Portugais", "Anglais"],
+        "correctAnswer": "Portugais"
+      },
+      {
+        "question": "Qui a peint la Joconde ?",
+        "choices": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Léonard de Vinci"],
+        "correctAnswer": "Léonard de Vinci"
+      },
+      {
+        "question": "Quelle est la plus petite planète du système solaire ?",
+        "choices": ["Mars", "Mercure", "Vénus", "Pluton"],
+        "correctAnswer": "Mercure"
+      },
+      {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "choices": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+        "correctAnswer": "Amazone"
+      },
+      {
+        "question": "Qui a écrit 'Le Petit Prince' ?",
+        "choices": ["Antoine de Saint-Exupéry", "Jules Verne", "Marcel Pagnol", "Albert Camus"],
+        "correctAnswer": "Antoine de Saint-Exupéry"
+      },
+      {
+        "question": "Quelle est la capitale de l'Australie ?",
+        "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correctAnswer": "Canberra"
+      },
+      {
+        "question": "Quel est le symbole chimique du fer ?",
+        "choices": ["Fe", "F", "I", "Ir"],
+        "correctAnswer": "Fe"
+      },
+      {
+        "question": "Quel est le plus haut sommet du monde ?",
+        "choices": ["Mont Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "correctAnswer": "Mont Everest"
+      },
+      {
+        "question": "Qui a inventé l'ampoule électrique ?",
+        "choices": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Albert Einstein"],
+        "correctAnswer": "Thomas Edison"
+      },
+      {
+        "question": "Quel est le plus grand désert du monde ?",
+        "choices": ["Désert du Sahara", "Désert de Gobi", "Désert d'Arabie", "Antarctique"],
+        "correctAnswer": "Antarctique"
+      },
+      {
+        "question": "Quelle est la langue la plus parlée au monde ?",
+        "choices": ["Espagnol", "Anglais", "Mandarin", "Hindou"],
+        "correctAnswer": "Mandarin"
+      }
+    ]
+  }
+
+  
