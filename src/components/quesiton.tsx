@@ -1,5 +1,6 @@
 import React, { useState, useEffect} from "react";
 import Heart from "./live";
+import { Link } from "react-router-dom";
 
 interface Question {
     question: string;
@@ -87,7 +88,7 @@ const QuestionQuizz: React.FC<jsonComponent> = ({ jsonUrl, year }) => {
     if (live === 0) {
         return <div>
             <h2>Oh non !</h2>
-            <a href="/menu">Retour</a>
+            <Link to="/menu">Retour</Link>
         </div>
     }
 
