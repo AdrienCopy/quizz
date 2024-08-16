@@ -87,7 +87,7 @@ const QuestionQuizz: React.FC<jsonComponent> = ({ jsonUrl, year }) => {
     if (live === 0) {
         return <div>
             <h2>Oh non !</h2>
-            <a href="menu">Retour</a>
+            <a href="/menu">Retour</a>
         </div>
     }
 
