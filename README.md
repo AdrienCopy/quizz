@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# Projet : The Quizz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Formation Becode
+Projet de développement d'une application web écrite en TypeScript, utilisant React et React Router, et construite avec Vite.
 
-Currently, two official plugins are available:
+## Application Web Quizz
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Création d'un quiz dans le but d'apprendre TypeScript et de mettre en pratique des compétences en développement web.
 
-## Expanding the ESLint configuration
+Le projet **The Quizz** a été développé en suivant une approche mobile first.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Lien
 
-- Configure the top-level `parserOptions` property like this:
+Découvrez le projet en ligne ici : [The Quizz](https://the-quizz.vercel.app/)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Image
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<p align="left">
+<img src="src/assets/picture/screen1.png" alt="Capture d'écran de l'application" width="200"/>
+<img src="src/assets/picture/screen2.png" alt="Capture d'écran de l'application" width="200"/>
+<img src="src/assets/picture/screen3.png" alt="Capture d'écran de l'application" width="200"/>
+</p>
