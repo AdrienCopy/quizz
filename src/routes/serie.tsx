@@ -5,7 +5,7 @@ const Serie: React.FC = () => {
 
     return (
         <section>
-        <QuestionQuizz jsonUrl="src/assets/json/serieData.json" year={2000} />
+        <QuestionQuizz jsonUrl="assets/json/SerieData.json" year={2000} />
         </section>
     );
 };

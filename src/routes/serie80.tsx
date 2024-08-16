@@ -5,7 +5,7 @@ const Serie80: React.FC = () => {
 
     return (
         <section>
-        <QuestionQuizz jsonUrl="src/assets/json/serie80Data.json" year={80} />
+        <QuestionQuizz jsonUrl="assets/json/serie80Data.json" year={80} />
         </section>
     );
 };
