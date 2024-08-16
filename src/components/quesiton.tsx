@@ -23,12 +23,20 @@ const QuestionQuizz: React.FC<jsonComponent> = ({ jsonUrl, year }) => {
     
     useEffect(() => {
         const fetchQuestions = async () => {
-          const response = await fetch(jsonUrl);
-          const data = await response.json();
-          setQuestions(data.questions);
+            try {
+                const response = await fetch(jsonUrl);
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const data = await response.json();
+                setQuestions(data.questions);
+            } catch (error) {
+                console.error('There was a problem with the fetch operation:', error);
+            }
         };
+
         fetchQuestions();
-    }, []);
+    }, [jsonUrl]);
 
     const currentQuestion = questions[currentQuestionIndex];
 
