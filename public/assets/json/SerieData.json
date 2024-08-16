@@ -1,0 +1,45 @@
+{
+    "questions": [
+      {
+        "question": "Quelle série suit la vie de six amis vivant à New York, diffusée de 1994 à 2004 ?",
+        "answer": "Friends"
+      },
+      {
+        "question": "Dans quelle série un agent fédéral lutte contre le terrorisme et doit souvent faire des choix moraux difficiles, avec un format en temps réel ?",
+        "answer": "24 Heures chrono"
+      },
+      {
+        "question": "Quelle série de science-fiction met en scène des survivants d'un crash aérien sur une île mystérieuse ?",
+        "answer": "Lost"
+      },
+      {
+        "question": "Dans quelle série un chimiste se transforme en baron de la drogue après avoir reçu un diagnostic de cancer du poumon ?",
+        "answer": "Breaking Bad"
+      },
+      {
+        "question": "Quelle série se déroule dans un hôpital fictif et suit la vie d'internes en médecine et de leurs mentors ?",
+        "answer": "Grey's Anatomy"
+      },
+      {
+        "question": "Quelle série suit les aventures de deux frères chassant des créatures surnaturelles à travers les États-Unis ?",
+        "answer": "Supernatural"
+      },
+      {
+        "question": "Dans quelle série une équipe d'agents spéciaux résout des crimes impliquant des marins et des membres du personnel de la Marine américaine ?",
+        "answer": "NCIS"
+      },
+      {
+        "question": "Quelle série suit les enquêtes d'un expert en médecine légale qui est également un tueur en série ?",
+        "answer": "Dexter"
+      },
+      {
+        "question": "Dans quelle série une famille de mafieux du New Jersey est au centre de l'histoire, explorant les dynamiques de pouvoir et les luttes personnelles ?",
+        "answer": "Les Soprano"
+      },
+      {
+        "question": "Quelle série comique suit la vie d'employés de bureau dans une société de vente de papier en Pennsylvanie, filmée dans un style documentaire ?",
+        "answer": "The Office"
+      }
+    ]
+  }
+  
