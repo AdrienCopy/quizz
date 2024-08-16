@@ -1,19 +1,21 @@
 main {
-    display: flex;
+    /*display: flex;
     flex-direction: column;
     height: 80vh;
     width: 100%;
     padding: 2%;
     box-sizing: border-box;
-    margin-top: 90px;
+    margin-top: 90px;*/
     text-align: center;
     section {
-        flex: 1;
-        box-sizing: border-box;
-        margin: auto;
+        //flex: 1;
+        //box-sizing: border-box;
+        //margin: auto;
+        margin-top: 90px;
         align-items: center;
         padding: 5% 2% 2%;
         width: 96%;
+        //height: 80vh;
         background: rgba(255, 255, 255, 0.2);
         box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
         backdrop-filter: blur(5px);      

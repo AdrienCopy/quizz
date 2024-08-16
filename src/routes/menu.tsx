@@ -15,10 +15,10 @@ const Menu:  React.FC = () => {
     return (
         <section>
         <h2>Hello, {name} !</h2>
-        <Link to="/question">QCM Avec score</Link>
         <Link to="/serie">Serie 2000</Link>
         <Link to="/serie90">Serie 90</Link>
-        <Link to="/serie80">Serie 80</Link>        
+        <Link to="/serie80">Serie 80</Link> 
+        <Link to="/question">QCM Avec score</Link>       
         </section>
     );
 };
