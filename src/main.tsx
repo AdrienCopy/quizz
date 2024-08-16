@@ -13,7 +13,7 @@ import Menu from './routes/menu';
 import Serie from './routes/serie';
 import Serie80 from './routes/serie80';
 import Serie90 from './routes/serie90';
-import ErrorPage from './error-page'
+import ErrorPage from './error-page';
 
 const routes: RouteObject[] = [
   {

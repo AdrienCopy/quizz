@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 const Menu:  React.FC = () => {
     const [name, setName] = useState<string | null>(null);
@@ -14,10 +15,10 @@ const Menu:  React.FC = () => {
     return (
         <section>
         <h2>Hello, {name} !</h2>
-        <a href="question">QCM Avec score</a>
-        <a href="serie">Serie 2000</a>
-        <a href="serie90">Serie 90</a>
-        <a href="serie80">Serie 80</a>
+        <Link to="/question">QCM Avec score</Link>
+        <Link to="/serie">Serie 2000</Link>
+        <Link to="/serie90">Serie 90</Link>
+        <Link to="/serie80">Serie 80</Link>        
         </section>
     );
 };
