@@ -19,10 +19,6 @@ input, button {
   color: #00007e;
 }
 
-.input-search {
-  font-size: 17pt;
-}
-
 header {
   text-align: center;
   align-content: center;
@@ -33,7 +29,8 @@ header {
   height: 80px;
   background: rgba(255, 255, 255, 0.2);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
 }
 
 footer {
@@ -42,7 +39,8 @@ footer {
   height: 80px;
   background: rgba(255, 255, 255, 0.2);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
   position: fixed;
   width: 100%;
   bottom: 0;
@@ -74,7 +72,8 @@ main section {
   width: 96%;
   background: rgba(255, 255, 255, 0.2);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
 }
 main section h2 {
   margin-bottom: 5%;
@@ -103,7 +102,7 @@ main section form input {
   height: 50px;
   border: 1px solid #c4c4c4;
   border-radius: 20px 0 0 20px;
-  padding-left: 7%;
+  padding-left: 5%;
   width: 60%;
 }
 main section form button {
