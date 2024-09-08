@@ -5,7 +5,7 @@ const Question: React.FC = () => {
 
     return (
         <section>
-        <QuizComponent />
+        <QuizComponent jsonUrl="assets/json/quizData.json"/>
         </section>
     );
 };

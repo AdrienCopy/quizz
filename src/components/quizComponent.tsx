@@ -6,7 +6,11 @@ interface Question {
   correctAnswer: string;
 }
 
-const QuizComponent: React.FC = () => {
+interface jsonComponent {
+  jsonUrl: string;
+}
+
+const QuizComponent: React.FC<jsonComponent> = ({ jsonUrl }) => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
@@ -22,7 +26,7 @@ const QuizComponent: React.FC = () => {
 
   useEffect(() => {
     const fetchQuestions = async () => {
-      const response = await fetch('src/assets/json/quizData.json');
+      const response = await fetch(jsonUrl);
       const data = await response.json();
       setQuestions(data.questions);
     };
