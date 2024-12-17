@@ -1,11 +1,14 @@
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 300 to 700
 
-body, h1, h2, h3 {
+body, h1, h2, h3, button {
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    color: #00007e;
+  }
+  a {
     color: #00007e;
   }
 

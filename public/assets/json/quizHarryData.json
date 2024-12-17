@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Quelle est la composition exacte de la baguette de Harry Potter ?",
+            "choices": [
+                "Bois de houx, plume de phénix, 28 cm",
+                "Bois d'if, ventricule de dragon, 26 cm",
+                "Bois de sureau, crin de licorne, 30 cm",
+                "Bois de chêne, poil de loup-garou, 29 cm"
+            ],
+            "correctAnswer": "Bois de houx, plume de phénix, 28 cm"
+        },
+        {
+            "question": "Quel est le numéro de la chambre forte de Gringotts où est stockée la pierre philosophale ?",
+            "choices": [
+                "713",
+                "687",
+                "501",
+                "999"
+            ],
+            "correctAnswer": "713"
+        },
+        {
+            "question": "Qui a écrit ‘Histoire de la Magie’ étudié par les élèves de Poudlard ?",
+            "choices": [
+                "Bathilda Tourdesac",
+                "Adalbert Lasornette",
+                "Emeric G. Changecourant",
+                "Gilderoy Lockhart"
+            ],
+            "correctAnswer": "Bathilda Tourdesac"
+        },
+        {
+            "question": "Quel est le nom exact du serpent que Harry libère au zoo dans le premier livre ?",
+            "choices": [
+                "Nagini",
+                "Un mamba noir",
+                "Un python birman",
+                "Un cobra royal"
+            ],
+            "correctAnswer": "Un python birman"
+        },
+        {
+            "question": "Quel est le nom complet du sortilège qui oblige une personne à révéler la vérité ?",
+            "choices": [
+                "Sortilège d’Impero",
+                "Serment Inviolable",
+                "Véracitas Maxima",
+                "Sortilège de Legilimens"
+            ],
+            "correctAnswer": "Sortilège de Legilimens"
+        },
+        {
+            "question": "Parmi ces prénoms, lequel n'appartient PAS à un membre de la famille Weasley ?",
+            "choices": [
+                "Charlie",
+                "Percy",
+                "Gideon",
+                "Bill"
+            ],
+            "correctAnswer": "Gideon"
+        },
+        {
+            "question": "Quelle potion complexe contient des ingrédients tels que le sisymbre, la racine d'asphodèle et la peau de serpent d'arbre ?",
+            "choices": [
+                "Potion de Polynectar",
+                "Potion Tue-Loup",
+                "Philtre de Paix",
+                "Potion d'Amnésie"
+            ],
+            "correctAnswer": "Potion de Polynectar"
+        },
+        {
+            "question": "Combien de points rapporte l'attrapage du Vif d'Or lors d'un match de Quidditch ?",
+            "choices": [
+                "100 points",
+                "200 points",
+                "150 points",
+                "300 points"
+            ],
+            "correctAnswer": "150 points"
+        },
+        {
+            "question": "Quel est le deuxième prénom d’Hermione Granger ?",
+            "choices": [
+                "Jean",
+                "Marie",
+                "Rose",
+                "Anne"
+            ],
+            "correctAnswer": "Jean"
+        },
+        {
+            "question": "Quel était le nom du grand-père Moldu de Tom Jedusor ?",
+            "choices": [
+                "Tom Riddle Sr.",
+                "Morfin Gaunt",
+                "Marvolo Gaunt",
+                "Bob Ogden"
+            ],
+            "correctAnswer": "Tom Riddle Sr."
+        }
+    ]
+}

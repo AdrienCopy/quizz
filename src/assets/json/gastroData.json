@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Quel est le nom du plat traditionnel de la région lyonnaise, composé de quenelles de brochet et de sauce Nantua ?",
+            "choices": [
+                "Caillefarcie",
+                "Quenelles de brochet",
+                "Gratin dauphinois",
+                "Saucisson brioché"
+            ],
+            "correctAnswer": "Quenelles de brochet"
+        },
+        {
+            "question": "Dans la cuisine française, quel est l'ingrédient principal du 'Pâté en croûte' ?",
+            "choices": [
+                "Viande de volaille",
+                "Viande de porc",
+                "Viande de bœuf",
+                "Poisson"
+            ],
+            "correctAnswer": "Viande de porc"
+        },
+        {
+            "question": "Le célèbre plat 'Boeuf Bourguignon' est un ragoût de bœuf cuit dans quel type de vin ?",
+            "choices": [
+                "Vin de Bordeaux",
+                "Vin de Bourgogne",
+                "Vin de Loire",
+                "Vin de Provence"
+            ],
+            "correctAnswer": "Vin de Bourgogne"
+        },
+        {
+            "question": "Quel est le nom du fromage français à pâte persillée, fabriqué principalement dans la région de l'Aveyron, à base de lait de vache ?",
+            "choices": [
+                "Munster",
+                "Roquefort",
+                "Bleu d'Auvergne",
+                "Comté"
+            ],
+            "correctAnswer": "Bleu d'Auvergne"
+        },
+        {
+            "question": "Quelle est la différence principale entre un 'soufflé' et une 'omelette soufflée' en cuisine française ?",
+            "choices": [
+                "Le soufflé est cuit à la vapeur, l'omelette soufflée est cuite à la poêle",
+                "L'omelette soufflée est battue plus longtemps que le soufflé",
+                "Le soufflé est salé, l'omelette soufflée est sucrée",
+                "Le soufflé contient toujours du fromage, pas l'omelette soufflée"
+            ],
+            "correctAnswer": "Le soufflé est cuit à la vapeur, l'omelette soufflée est cuite à la poêle"
+        },
+        {
+            "question": "Le 'Salmon en Papillote' est un plat préparé en enveloppant quel aliment dans du papier ?",
+            "choices": [
+                "Poisson",
+                "Viande de volaille",
+                "Légumes",
+                "Fruits de mer"
+            ],
+            "correctAnswer": "Poisson"
+        },
+        {
+            "question": "Dans quel département français se trouve la ville de La Rochelle, connue pour ses huîtres et autres fruits de mer ?",
+            "choices": [
+                "Gironde",
+                "Charente-Maritime",
+                "Finistère",
+                "Loire-Atlantique"
+            ],
+            "correctAnswer": "Charente-Maritime"
+        },
+        {
+            "question": "Dans la cuisine française, quel est l’ingrédient essentiel de la 'sauce béarnaise' ?",
+            "choices": [
+                "Vin blanc",
+                "Estragon",
+                "Ciboulette",
+                "Moutarde"
+            ],
+            "correctAnswer": "Estragon"
+        },
+        {
+            "question": "Quelle technique de cuisine française consiste à cuire un aliment en le plongeant dans de l'eau chaude, mais sans le faire bouillir ?",
+            "choices": [
+                "Sauter",
+                "Pocher",
+                "Griller",
+                "Frire"
+            ],
+            "correctAnswer": "Pocher"
+        },
+        {
+            "question": "Quel est le nom du plat provençal traditionnellement préparé avec des tomates, des aubergines, des courgettes, des poivrons et des oignons, souvent servi avec du riz ou de la viande ?",
+            "choices": [
+                "Bouillabaisse",
+                "Ratatouille",
+                "Pissaladière",
+                "Caponata"
+            ],
+            "correctAnswer": "Ratatouille"
+        }
+    ]
+}

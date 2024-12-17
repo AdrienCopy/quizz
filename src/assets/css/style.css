@@ -3,11 +3,15 @@
   padding: 0;
 }
 
-body, h1, h2, h3 {
+body, h1, h2, h3, button {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  color: #00007e;
+}
+
+a {
   color: #00007e;
 }
 
@@ -125,7 +129,7 @@ ul {
   align-items: center;
 }
 ul li {
-  width: 50%;
+  width: 60%;
   margin-top: 1%;
 }
 ul li button {

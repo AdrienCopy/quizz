@@ -13,6 +13,8 @@ import Menu from './routes/menu';
 import Serie from './routes/serie';
 import Serie80 from './routes/serie80';
 import Serie90 from './routes/serie90';
+import HarryQcm from './routes/harryQcm';
+import GastroQcm from './routes/gastroQcm';
 import ErrorPage from './error-page';
 
 const routes: RouteObject[] = [
@@ -44,6 +46,14 @@ const routes: RouteObject[] = [
           {
             path: "serie80",
             element: <Serie80 />,
+          },
+          {
+            path: "harryQcm",
+            element: <HarryQcm />,
+          },
+          {
+            path: "gastroQcm",
+            element: <GastroQcm />,
           },
         ]
       }
