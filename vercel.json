@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+        { "source": "/(.*)", "destination": "/" },
+        { "source": "/serie(.*)", "destination": "/serie" },
+        { "source": "/serie90(.*)", "destination": "/serie90" },
+        { "source": "/serie80(.*)", "destination": "/serie80" },
+        { "source": "/question(.*)", "destination": "/question" },
+        { "source": "/harryQcm(.*)", "destination": "/harryQcm" },
+        { "source": "/gastroQcm(.*)", "destination": "/gastroQcm" }
+    ]
+  }
